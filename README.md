@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Utkarsh 👋
 
-<!--
-**utkarsh-vats/utkarsh-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @ **Obtuse Labs** · Building tools for Indian schools and legal professionals · Delhi NCR
 
-Here are some ideas to get you started:
+🔧 Currently shipping:
+- **[TC Generator](https://github.com/utkarsh-vats/tc-generator)** — Transfer Certificate generator for CBSE & private schools (Next.js)
+- **[eLegalReader](https://github.com/utkarsh-vats/LegalReader-1.0)** — AI-powered Indian court case scraper with alerts (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Learning & building towards DevOps — working with AWS, Docker, CI/CD, and infrastructure-as-code.
+
+📚 Currently pursuing: AWS SAA-C03 · Backend engineering (Node.js, Django, PostgreSQL)
+
+**Tech I work with:** Python · JavaScript/TypeScript · Next.js · Django · AWS · Linux
+
+📍 New Delhi, India · [obtuse.in](https://obtuse.in)
