@@ -1,15 +1,26 @@
-### Hey, I'm Utkarsh 👋
+### Hi, I'm Utkarsh 👋
 
-Founder @ **Obtuse Labs** · Building tools for Indian schools and legal professionals · Delhi NCR
+Backend & cloud engineer building production systems under **[Obtuse Labs](https://obtuse.in)** · Delhi NCR
 
-🔧 Currently shipping:
-- **[TC Generator](https://github.com/utkarsh-vats/tc-generator)** — Transfer Certificate generator for CBSE & private schools (Next.js)
-- **[eLegalReader](https://github.com/utkarsh-vats/LegalReader-1.0)** — AI-powered Indian court case scraper with alerts (Python)
+---
 
-🚀 Learning & building towards DevOps — working with AWS, Docker, CI/CD, and infrastructure-as-code.
+🔧 **Currently shipping**
 
-📚 Currently pursuing: AWS SAA-C03 · Backend engineering (Node.js, Django, PostgreSQL)
+- **SubLedger** — Subscription billing API with idempotent payment recording, multi-currency support, and Celery-driven dunning. FastAPI · SQLAlchemy 2.x · PostgreSQL · Redis. *In active development.*
+- **[PulseNotify](https://github.com/utkarsh-vats/Airtribe_PulseNotify)** — Flight-deal alerting service running live at [api.pulsenotify.obtuse.in](https://api.pulsenotify.obtuse.in). Django DRF · Celery Beat · Redis · Docker Compose · AWS EC2 · GitHub Actions CI/CD.
+- **[TC Generator](https://github.com/utkarsh-vats/tc-generator)** — Transfer Certificate generator for CBSE & private schools. Next.js.
+- **[eLegalReader](https://github.com/utkarsh-vats/LegalReader-1.0)** — Async Indian court case scraper with Telegram alerts. Python.
 
-**Tech I work with:** Python · JavaScript/TypeScript · Next.js · Django · AWS · Linux
+🛠 **Infrastructure I run**
 
-📍 New Delhi, India · [obtuse.in](https://obtuse.in)
+AWS EC2 with Route 53 DNS, automated start/stop via CLI, S3, IAM, and budget guardrails. Services containerized with Docker Compose behind Nginx + HTTPS. CI/CD via GitHub Actions.
+
+📚 **Studying**
+
+AWS Solutions Architect Associate (SAA-C03) · LFCS up next
+
+🧰 **Stack**
+
+Python · TypeScript · Django · FastAPI · Next.js · PostgreSQL · Redis · Celery · Docker · AWS · GitHub Actions · Linux
+
+📍 Delhi NCR · [obtuse.in](https://obtuse.in)
